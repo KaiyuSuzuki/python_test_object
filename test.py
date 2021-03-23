@@ -19,7 +19,7 @@ def main(file_name):
             ret += s
 
     if ret == "":
-        ret = str(m)
+        ret = m
 
     return ret
 
